@@ -4,3 +4,4 @@ SQLAlchemy
 databases
 stripe
 pydantic
+sqladmin
